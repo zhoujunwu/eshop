@@ -8,10 +8,10 @@
         "ASPNETCORE_ENVIRONMENT": "Development",
         "DOTNET_ENVIRONMENT": "Development",
         "DOTNET_LAUNCH_PROFILE": "http",
-        "DOTNET_DASHBOARD_OTLP_ENDPOINT_URL": "http://localhost:16119"
+        "DOTNET_DASHBOARD_OTLP_ENDPOINT_URL": "http://192.168.1.100:16119"
       },
       "dotnetRunMessages": true,
-      "applicationUrl": "http://localhost:18848"
+      "applicationUrl": "http://192.168.1.100:18848"
     },
     "https": {
       "commandName": "Project",
